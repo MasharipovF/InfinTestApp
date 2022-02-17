@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfinTestApp</string>
+    <string name="author">Автор:</string>
+    <string name="language">Язык:</string>
+    <string name="search_hint">Начните вводить для поиска…</string>
+    <string name="authorize">АВТОРИЗОВАТЬСЯ</string>
+    <string name="authorize_text">Для продолжения работы Вам необходимо авторизоваться на странице GitHub. Нажмите кнопку ниже</string>
+    <string name="authorize_succes">Вы успешно авторизовались! Переход к странице поиска…</string>
+    <string name="error">Произошла ошибка!</string>
+</resources>
